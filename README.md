@@ -3,7 +3,9 @@
 ### Objectives
 After completing this lab, you will be able to:
 
+
 Import a Notebook in Watson Studio
+
 Solve Classification Problems
 
 ### Instructions
@@ -11,13 +13,20 @@ Now that you have been equipped with the skills to use different Machine Learnin
 
 You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
 
+
 k-Nearest Neighbour
+
 Decision Tree
+
 Support Vector Machine
+
 Logistic Regression
+
 
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
 Jaccard index
+
 F1-score
+
 LogLoass
